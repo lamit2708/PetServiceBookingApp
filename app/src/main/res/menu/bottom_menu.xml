@@ -4,27 +4,27 @@
     <item
         android:id="@+id/home"
         android:icon="@drawable/bottom_btn1"
-        android:title="home"
+        android:title="Trang chủ"
         app:cnb_backgroundColor="@color/orange"
         app:cnb_iconColor="@color/white" />
     <item
         android:id="@+id/board"
-        android:icon="@drawable/bottom_btn2"
-        android:title="Board"
+        android:icon="@drawable/ic_notification"
+        android:title="Thông báo"
         app:cnb_backgroundColor="@color/orange"
         app:cnb_iconColor="@color/white" />
 
     <item
         android:id="@+id/favorites"
-        android:icon="@drawable/bottom_btn3"
-        android:title="Favorites"
+        android:icon="@drawable/ic_schedule"
+        android:title="Lịch hẹn"
         app:cnb_backgroundColor="@color/orange"
         app:cnb_iconColor="@color/white" />
 
     <item
         android:id="@+id/profile"
-        android:icon="@drawable/bottom_btn4"
-        android:title="Profile"
+        android:icon="@drawable/ic_settings"
+        android:title="Cài đặt"
         app:cnb_backgroundColor="@color/orange"
         app:cnb_iconColor="@color/white" />
 
